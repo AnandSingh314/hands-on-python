@@ -1,9 +1,10 @@
 list1 = list()
 list2 = ['a', 25, 'string', 14.03]
-# list3 = list(tupel1)
+list3 = list((1,2,3,4)) # list(tuple)
 
 print list1
 print list2
+print list3
 
 # List Comprehension
 list4 = [x for x in range(10)]
