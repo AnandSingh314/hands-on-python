@@ -8,3 +8,4 @@ Tuples in List
 
 ### Operation on Tuples  
   * **constructor**: can be created using parenthesis, simple comma saperated objects and tuple(list) constructor with list input.
+  * no other operation are allowed, since Tuple is immutable
