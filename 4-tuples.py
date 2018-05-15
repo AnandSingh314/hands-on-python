@@ -19,3 +19,7 @@ tuple6[0][1]=20
 print tuple6
 del(tuple6[0][1])
 print tuple6
+
+tuple7 = 1,2,3,4,5,6,7,8,9
+print 3 in tuple7
+print 3 not in tuple7
